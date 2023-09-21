@@ -2,11 +2,18 @@
 - 👀 I’m interested in Data Science/ Machine Learning/ Artificial Intelligence
 - 💞️ I’m looking to collaborate on Open Source Projects and Product based Projects
 
+<h3 align="center">Machine Learning & Artificial Intelligence Engineer</h3>
+
 ## **CODING STATS**
 <p align = 'center'>
     <img src='https://github-readme-stats-sigma-five.vercel.app/api?username=SurajBilgi&count_private=true&include_all_commits=true&show_icons=true&theme=gotham&hide_border=true&line_height=27'/>
     <img src='https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SurajBilgi&show_icons=true&hide=php,html,typescript,css,markdown&theme=gotham&line_height=27&hide_border=true'/>
 </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SurajBilgi&label=Profile%20views&color=0e75b6&style=flat" alt="SurajBilgi" /> </p>
+
+<p align="Center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SurajBilgi" alt="SurajBilgi" /></a> </p>
+
 
 ## **CONNECT WITH ME**:
 <p align="left">
@@ -17,6 +24,9 @@
    <img alt='followers' title='Follow Me on GitHub' src='https://custom-icon-badges.herokuapp.com/github/followers/SurajBilgi?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white'/>
 <br>
 </a>
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/surajbilgi2"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="SurajBilgi" /></a></p><br><br>
 
     
 <!---
