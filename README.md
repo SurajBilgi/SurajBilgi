@@ -97,6 +97,9 @@ I build **production-grade RAG systems**, **LLM-powered agents**, and **scalable
 
 ## 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SurajBilgi&label=Profile%20views&color=7C3AED&style=flat-square" alt="GitHub Views" />
+</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=SurajBilgi&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
